@@ -1,0 +1,18 @@
+﻿<Rung Number="16" Type="N">
+<Text>
+<![CDATA[[XIC(F_BM1_27_MSD_OFF), XIC(F_BM1_27_OVRIDE)]OTE(BM1_26_MTR.ANTI_CASC);]]>
+</Text>
+</Rung>
+<Rung Number="16" Type="N">
+<Text>
+<![CDATA[[XIC(F_CL12T_35_MSD_OFF), XIC(F_CL12T_35_OVRIDE)]OTE(CL12T_36_MTR.ANTI_CASC);]]>
+</Text>
+</Rung><Rung Number="16" Type="N">
+<Text>
+<![CDATA[[XIC(F_CL2T_3_MSD_OFF), XIC(F_CL2T_3_OVRIDE)]OTE(CL2T_3_MTR.ANTI_CASC);]]>
+</Text>
+</Rung><Rung Number="16" Type="N">
+<Text>
+<![CDATA[[XIC(F_C2T_6_MSD_OFF), XIC(F_C2T_6_OVRIDE)]OTE(C2T_6_MTR.ANTI_CASC);]]>
+</Text>
+</Rung>
