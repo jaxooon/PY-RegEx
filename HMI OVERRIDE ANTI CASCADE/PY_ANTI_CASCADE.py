@@ -14,6 +14,7 @@ FileNameListLength = len(FileNameList)
 print(FileNameListLength)
 
 
+
 for name in FileNameList:
     with open(name, 'r') as TextFile:
         WordsWritten = [line.strip() for line in TextFile]
